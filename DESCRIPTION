@@ -17,3 +17,5 @@ Suggests:
 RoxygenNote: 6.1.1
 Imports: 
     magrittr
+URL: https://github.com/rcorty/rclinicaltrials2
+BugReports: https://github.com/rcorty/rclinicaltrials2/issues
