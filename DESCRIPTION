@@ -1,0 +1,19 @@
+Package: rclinicaltrials2
+Title: Query ClinicalTrials.gov API
+Version: 0.0.1
+Authors@R: 
+    person(given = "Robert",
+           family = "Corty",
+           role = c("aut", "cre"),
+           email = "rcorty@gmail.com",
+           comment = c(ORCID = "0000-0002-6787-9051"))
+Description: Query the new API of ClinicalTrials.gov and get
+    R objects back.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat
+RoxygenNote: 6.1.1
+Imports: 
+    magrittr
