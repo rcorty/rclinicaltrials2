@@ -16,6 +16,9 @@ Suggests:
     testthat
 RoxygenNote: 6.1.1
 Imports: 
-    magrittr
+    magrittr,
+    httr,
+    purrr,
+    xml2
 URL: https://github.com/rcorty/rclinicaltrials2
 BugReports: https://github.com/rcorty/rclinicaltrials2/issues
