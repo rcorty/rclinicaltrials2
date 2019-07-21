@@ -1,3 +1,11 @@
+#' @title info
+#'
+#' @return deeply-nesteed list of information about the API
+#' @export
+#'
+#' @examples
+#' info()
+#'
 info <- function() {
     query_strings <- purrr::map_chr(
         c('data_vrs', 'api_vrs', 'api_defs',

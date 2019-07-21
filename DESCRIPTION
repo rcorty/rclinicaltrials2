@@ -9,11 +9,11 @@ Authors@R:
            comment = c(ORCID = "0000-0002-6787-9051"))
 Description: Query the new API of ClinicalTrials.gov and get
     R objects back.
-License: MIT
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Suggests: 
-    testthat
+    testthat (>= 2.1.0)
 RoxygenNote: 6.1.1
 Imports: 
     magrittr,
