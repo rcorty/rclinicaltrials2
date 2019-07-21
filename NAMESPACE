@@ -2,5 +2,4 @@
 
 export("%>%")
 export(info)
-export(query)
 importFrom(magrittr,"%>%")
